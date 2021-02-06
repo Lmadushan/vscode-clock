@@ -1,8 +1,14 @@
 {
 	"name": "clock",
-	"displayName": "clock",
-	"description": "",
-	"version": "0.0.1",
+	"displayName": "Clock",
+	"description": "Clock on statusbar",
+	"version": "0.0.2",
+	"publisher": "LahiruMirihagoda",
+	"repository": {
+		"type": "git",
+  		"url": "https://github.com/Lmadushan/vscode-clock.git"
+	},
+	"icon": "images/0b05cfa9-8afe-400b-9270-06a58b401da0_200x200.png",
 	"engines": {
 		"vscode": "^1.53.0"
 	},
